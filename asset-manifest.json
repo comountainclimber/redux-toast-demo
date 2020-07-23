@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/redux-toast-demo/static/css/main.a01cab20.chunk.css",
+    "main.js": "/redux-toast-demo/static/js/main.b8b8de1b.chunk.js",
+    "main.js.map": "/redux-toast-demo/static/js/main.b8b8de1b.chunk.js.map",
+    "runtime-main.js": "/redux-toast-demo/static/js/runtime-main.7c57a520.js",
+    "runtime-main.js.map": "/redux-toast-demo/static/js/runtime-main.7c57a520.js.map",
+    "static/css/2.d34346ea.chunk.css": "/redux-toast-demo/static/css/2.d34346ea.chunk.css",
+    "static/js/2.3032ea32.chunk.js": "/redux-toast-demo/static/js/2.3032ea32.chunk.js",
+    "static/js/2.3032ea32.chunk.js.map": "/redux-toast-demo/static/js/2.3032ea32.chunk.js.map",
+    "index.html": "/redux-toast-demo/index.html",
+    "precache-manifest.92bc9f35d7cdd88987ba5d71e5c20f80.js": "/redux-toast-demo/precache-manifest.92bc9f35d7cdd88987ba5d71e5c20f80.js",
+    "service-worker.js": "/redux-toast-demo/service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "/redux-toast-demo/static/css/2.d34346ea.chunk.css.map",
+    "static/css/main.a01cab20.chunk.css.map": "/redux-toast-demo/static/css/main.a01cab20.chunk.css.map",
+    "static/js/2.3032ea32.chunk.js.LICENSE.txt": "/redux-toast-demo/static/js/2.3032ea32.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/redux-toast-demo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c57a520.js",
+    "static/css/2.d34346ea.chunk.css",
+    "static/js/2.3032ea32.chunk.js",
+    "static/css/main.a01cab20.chunk.css",
+    "static/js/main.b8b8de1b.chunk.js"
+  ]
+}
