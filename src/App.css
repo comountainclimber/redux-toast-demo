@@ -1,9 +1,22 @@
-.App {
+.App,
+.App-router-container,
+nav,
+.App ul {
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.App ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 .App-logo {
-  height: 40vmin;
+  max-height: 200px;
   pointer-events: none;
 }
 
